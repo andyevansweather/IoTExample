@@ -4,5 +4,9 @@ small iot example
 
 ## Tooling
 
-Uses local broker
-[hbmqtt](https://github.com/beerfactory/hbmqtt)
+Install mosquitto
+Use cloud9
+
+```
+jupyter notebook --no-browser --port=8080 --ip='0.0.0.0' --NotebookApp.token='' --NotebookApp.password=''
+```
